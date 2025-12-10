@@ -1,0 +1,44 @@
+18:43:33 INFO root – TEST ENCANDENADOS : GET, POST , PUT , PATCH , DELETE
+18:43:33 INFO root – 1.GET Obtener usuarios
+18:44:26 INFO root – TEST ENCANDENADOS : GET, POST , PUT , PATCH , DELETE
+18:44:26 INFO root – 1.GET Obtener usuarios
+18:44:52 INFO root – TEST ENCANDENADOS : GET, POST , PUT , PATCH , DELETE
+18:44:52 INFO root – 1.GET Obtener usuarios
+18:46:19 INFO root – TEST ENCANDENADOS : GET, POST , PUT , PATCH , DELETE
+18:46:19 INFO root – 1.GET Obtener usuarios
+18:46:48 INFO root – TEST ENCANDENADOS : GET, POST , PUT , PATCH , DELETE
+18:46:48 INFO root – 1.GET Obtener usuarios
+18:47:33 WARNING selenium.webdriver.common.selenium_manager – The chromedriver version (141.0.7390.65) detected in PATH at C:\webDriver\bin\chromedriver.exe might not be compatible with the detected chrome version (143.0.7499.40); currently, chromedriver 143.0.7499.42 is recommended for chrome 143.*, so it is advised to delete the driver in PATH and retry
+18:47:36 WARNING selenium.webdriver.common.selenium_manager – The chromedriver version (141.0.7390.65) detected in PATH at C:\webDriver\bin\chromedriver.exe might not be compatible with the detected chrome version (143.0.7499.40); currently, chromedriver 143.0.7499.42 is recommended for chrome 143.*, so it is advised to delete the driver in PATH and retry
+18:47:39 WARNING selenium.webdriver.common.selenium_manager – The chromedriver version (141.0.7390.65) detected in PATH at C:\webDriver\bin\chromedriver.exe might not be compatible with the detected chrome version (143.0.7499.40); currently, chromedriver 143.0.7499.42 is recommended for chrome 143.*, so it is advised to delete the driver in PATH and retry
+18:58:49 INFO WDM – ====== WebDriver manager ======
+18:58:49 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:58:49 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:58:49 INFO WDM – There is no [win64] chromedriver "143.0.7499.42" for browser google-chrome "143.0.7499" in cache
+18:58:49 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:58:50 INFO WDM – WebDriver version 143.0.7499.42 selected
+18:58:50 INFO WDM – Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+18:58:50 INFO WDM – About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.42/win32/chromedriver-win32.zip
+18:58:50 INFO WDM – Driver downloading response is 200
+18:58:50 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:58:51 INFO WDM – Driver has been saved in cache [C:\Users\sole_\.wdm\drivers\chromedriver\win64\143.0.7499.42]
+18:58:58 INFO WDM – ====== WebDriver manager ======
+18:58:58 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:58:59 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:58:59 INFO WDM – Driver [C:\Users\sole_\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+18:59:05 INFO WDM – ====== WebDriver manager ======
+18:59:05 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:59:05 INFO WDM – Get LATEST chromedriver version for google-chrome
+18:59:05 INFO WDM – Driver [C:\Users\sole_\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+19:00:00 INFO WDM – ====== WebDriver manager ======
+19:00:01 INFO WDM – Get LATEST chromedriver version for google-chrome
+19:00:01 INFO WDM – Get LATEST chromedriver version for google-chrome
+19:00:01 INFO WDM – Driver [C:\Users\sole_\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+19:00:08 INFO WDM – ====== WebDriver manager ======
+19:00:08 INFO WDM – Get LATEST chromedriver version for google-chrome
+19:00:08 INFO WDM – Get LATEST chromedriver version for google-chrome
+19:00:09 INFO WDM – Driver [C:\Users\sole_\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+19:00:15 INFO WDM – ====== WebDriver manager ======
+19:00:15 INFO WDM – Get LATEST chromedriver version for google-chrome
+19:00:15 INFO WDM – Get LATEST chromedriver version for google-chrome
+19:00:16 INFO WDM – Driver [C:\Users\sole_\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
